@@ -58,15 +58,37 @@ Web app concept for enhancing low-quality images into HD using AI models.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hanssbr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<table>
+<tr>
+<td width="50%">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanssbr&layout=compact&langs_count=8&theme=tokyonight"/>
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanssbr&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&card_width=900" 
+  width="100%"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img 
+  src="./gif/katak-hijau.gif" 
+  alt="Katak Hijau GIF" 
+  width="100%"
+/>
+
+</td>
+</tr>
+</table>
 
 </div>
+
+
+
 
 ---
 
