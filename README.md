@@ -62,23 +62,25 @@ Web app concept for enhancing low-quality images into HD using AI models.
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" align="center" valign="middle">
 
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanssbr&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&card_width=900" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanssbr&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" 
   width="100%"
+  height="300"
 />
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
 
 <img 
   src="./gif/katak-hijau.gif" 
   alt="Katak Hijau GIF" 
   width="100%"
+  height="300"
 />
 
 </td>
@@ -86,7 +88,6 @@ Web app concept for enhancing low-quality images into HD using AI models.
 </table>
 
 </div>
-
 
 
 
