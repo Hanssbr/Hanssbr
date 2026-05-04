@@ -105,7 +105,7 @@ Web app concept for enhancing low-quality images into HD using AI models.
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://www.facebook.com/rayhaniqbal.rayhaniqbal?locale=id_ID">
+<a href="https://www.facebook.com/rayhaniqbal.rayhaniqbal">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
