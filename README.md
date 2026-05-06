@@ -11,15 +11,6 @@
 
 ---
 
-## 🧠 About Me
-
-- 🔭 Currently building backend systems and AI-powered projects
-- 🌱 Learning more about scalable backend architecture
-- 🤖 Interested in AI Assistant, Automation, and Discord Bots
-- 💡 Love turning ideas into real working products
-- ⚡ Linux enthusiast & late-night builder
-
----
 
 ## 🛠 Tech Stack
 
@@ -47,18 +38,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 OpenClaw AI Assistant
-AI-powered Discord assistant with smart personality system, backend integration, and psychological interaction support.
-
-### 🌐 Backend API Systems
-Building scalable REST APIs using Hono, TypeScript, Prisma, and modern backend architecture.
-
-### 🖼 AI Image Enhancer
-Web app concept for enhancing low-quality images into HD using AI models.
-
----
 
 ## 📊 Most Used Languages
 
