@@ -48,7 +48,7 @@
 <td width="50%" align="center" valign="middle">
 
 <img 
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hanssbr&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" 
+  src="https://github-readme-stats-yourname.vercel.app/api/top-langs/?username=hanssbr&layout=compact&theme=tokyonight&hide_border=true" 
   width="100%"
   height="300"
 />
